@@ -1,0 +1,8 @@
+{
+  "name": "修bug字卡小手机",
+  "description": "纯前端虚拟手机式字卡互动网页应用，支持自定义手机桌面、字卡库与模块化系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
